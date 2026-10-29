@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📚 PagePilot
-
+ 
 ### Domain-Specific RAG Chatbot with Source Grounding and Memory
 
 *Chat with any PDF. Get answers only from the document, with the exact sources shown.*
